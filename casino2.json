@@ -3,16 +3,16 @@
   "ads": [
     {
       "isAdsEnabled": true,
+      "imageUrl": "https://raw.githubusercontent.com/labobouita/ricric/refs/heads/main/image1.png",
+      "link1": ""
+    },
+    {
+      "isAdsEnabled": false,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Chain_link_icon_slanted.png?_=20170905101301",
       "link1": "https://www.youtube.com/"
     },
     {
-      "isAdsEnabled": true,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Chain_link_icon_slanted.png?_=20170905101301",
-      "link1": "https://www.youtube.com/"
-    },
-    {
-      "isAdsEnabled": true,
+      "isAdsEnabled": false,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Chain_link_icon_slanted.png?_=20170905101301",
       "link1": "https://www.youtube.com/"
     }
